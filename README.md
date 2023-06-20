@@ -16,3 +16,11 @@ As a user of the project, I want to be able to search for listings using Algolia
 - [ ] [User can filter search results](https://github.com/Khalon-Bridge/dees-repo-specs/issues/5)
 - [ ] [Listings include the necessary metadata for Algolia indexing](https://github.com/Khalon-Bridge/dees-repo-specs/issues/6)
 - [ ] [Search functionality integrates with Algolia API](https://github.com/Khalon-Bridge/dees-repo-specs/issues/7)
+
+## Feature: Holiday Deals Spec
+Detailed spec for showing holiday deals
+### Stories
+- [ ] [Display list of holiday deals](https://github.com/Khalon-Bridge/dees-repo-specs/issues/8)
+- [ ] [Filter holiday deals by destination](https://github.com/Khalon-Bridge/dees-repo-specs/issues/9)
+- [ ] [Filter holiday deals by date](https://github.com/Khalon-Bridge/dees-repo-specs/issues/10)
+- [ ] [Book a holiday deal](https://github.com/Khalon-Bridge/dees-repo-specs/issues/11)
