@@ -24,3 +24,10 @@ Detailed spec for showing holiday deals
 - [ ] [Filter holiday deals by destination](https://github.com/Khalon-Bridge/dees-repo-specs/issues/9)
 - [ ] [Filter holiday deals by date](https://github.com/Khalon-Bridge/dees-repo-specs/issues/10)
 - [ ] [Book a holiday deal](https://github.com/Khalon-Bridge/dees-repo-specs/issues/11)
+
+## Feature: GIF Creation Feature
+This detailed spec outlines the requirements and acceptance criteria for adding a GIF creation feature to the application.
+### Stories
+- [ ] [Story 1: User can upload multiple images to create a GIF](https://github.com/Khalon-Bridge/dees-repo-specs/issues/12)
+- [ ] [Story 2: User can customize the GIF creation settings](https://github.com/Khalon-Bridge/dees-repo-specs/issues/13)
+- [ ] [Story 3: User can share the created GIF](https://github.com/Khalon-Bridge/dees-repo-specs/issues/14)
