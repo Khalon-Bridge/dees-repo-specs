@@ -46,3 +46,12 @@ This feature allows users to cartoonize their photos, transforming them into car
 - [ ] [Apply Cartoon Filter](https://github.com/Khalon-Bridge/dees-repo-specs/issues/23)
 - [ ] [Adjust Cartoonization Settings](https://github.com/Khalon-Bridge/dees-repo-specs/issues/24)
 - [ ] [Save Cartoonized Photo](https://github.com/Khalon-Bridge/dees-repo-specs/issues/25)
+
+## Feature: Cartoonize Pictures
+A web application that transforms regular pictures to cartoon-style images.
+### Stories
+- [ ] [User Uploads Image](https://github.com/Khalon-Bridge/dees-repo-specs/issues/26)
+- [ ] [Apply Cartoonization Filter](https://github.com/Khalon-Bridge/dees-repo-specs/issues/27)
+- [ ] [Adjust Cartoonization Parameters](https://github.com/Khalon-Bridge/dees-repo-specs/issues/28)
+- [ ] [Download Cartoonized Image](https://github.com/Khalon-Bridge/dees-repo-specs/issues/29)
+- [ ] [Apply Multiple Filters](https://github.com/Khalon-Bridge/dees-repo-specs/issues/30)
