@@ -31,3 +31,10 @@ This detailed spec outlines the requirements and acceptance criteria for adding 
 - [ ] [Story 1: User can upload multiple images to create a GIF](https://github.com/Khalon-Bridge/dees-repo-specs/issues/12)
 - [ ] [Story 2: User can customize the GIF creation settings](https://github.com/Khalon-Bridge/dees-repo-specs/issues/13)
 - [ ] [Story 3: User can share the created GIF](https://github.com/Khalon-Bridge/dees-repo-specs/issues/14)
+
+## Feature: AI Cartoonization Feature
+This feature aims to utilize AI technology to cartoonize real pictures and format them as stories.
+### Stories
+- [ ] [Story 1: User Uploads a Picture](https://github.com/Khalon-Bridge/dees-repo-specs/issues/19)
+- [ ] [Story 2: AI Cartoonizes the Picture](https://github.com/Khalon-Bridge/dees-repo-specs/issues/20)
+- [ ] [Story 3: Generate a Cartoon Story](https://github.com/Khalon-Bridge/dees-repo-specs/issues/21)
