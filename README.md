@@ -38,3 +38,11 @@ This feature aims to utilize AI technology to cartoonize real pictures and forma
 - [ ] [Story 1: User Uploads a Picture](https://github.com/Khalon-Bridge/dees-repo-specs/issues/19)
 - [ ] [Story 2: AI Cartoonizes the Picture](https://github.com/Khalon-Bridge/dees-repo-specs/issues/20)
 - [ ] [Story 3: Generate a Cartoon Story](https://github.com/Khalon-Bridge/dees-repo-specs/issues/21)
+
+## Feature: Cartoonize Photo Feature
+This feature allows users to cartoonize their photos, transforming them into cartoon-like images.
+### Stories
+- [ ] [Upload Photo](https://github.com/Khalon-Bridge/dees-repo-specs/issues/22)
+- [ ] [Apply Cartoon Filter](https://github.com/Khalon-Bridge/dees-repo-specs/issues/23)
+- [ ] [Adjust Cartoonization Settings](https://github.com/Khalon-Bridge/dees-repo-specs/issues/24)
+- [ ] [Save Cartoonized Photo](https://github.com/Khalon-Bridge/dees-repo-specs/issues/25)
