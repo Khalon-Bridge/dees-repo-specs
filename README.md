@@ -74,3 +74,12 @@ A widget feature that allows visitors to calculate the annual repayment amount f
 - [ ] [User submits loan details](https://github.com/Khalon-Bridge/dees-repo-specs/issues/39)
 - [ ] [Loan details validation](https://github.com/Khalon-Bridge/dees-repo-specs/issues/40)
 - [ ] [Calculate annual repayment amount](https://github.com/Khalon-Bridge/dees-repo-specs/issues/41)
+
+## Feature: CryptoCredit: GitHub Reputation-based Credit App
+A crypto native app that provides credit to developers on GitHub based on their job reputation.
+### Stories
+- [ ] [As a developer, I want to connect my GitHub account so that my reputation can be assessed](https://github.com/Khalon-Bridge/dees-repo-specs/issues/42)
+- [ ] [As a developer, I want to view my credit score based on my GitHub job reputation](https://github.com/Khalon-Bridge/dees-repo-specs/issues/43)
+- [ ] [As a developer, I want to see my credit history and details](https://github.com/Khalon-Bridge/dees-repo-specs/issues/44)
+- [ ] [As a developer, I want to earn credits for my contributions](https://github.com/Khalon-Bridge/dees-repo-specs/issues/45)
+- [ ] [As a developer, I want to redeem earned credits](https://github.com/Khalon-Bridge/dees-repo-specs/issues/46)
