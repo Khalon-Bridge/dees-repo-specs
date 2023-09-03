@@ -66,3 +66,11 @@ A detailed spec for a user interface to collect tax information from users.
 - [ ] [Income Details](https://github.com/Khalon-Bridge/dees-repo-specs/issues/35)
 - [ ] [Deductions](https://github.com/Khalon-Bridge/dees-repo-specs/issues/36)
 - [ ] [Review and Submit](https://github.com/Khalon-Bridge/dees-repo-specs/issues/37)
+
+## Feature: Widget Feature - Annual Repayment Calculator
+A widget feature that allows visitors to calculate the annual repayment amount for a loan.
+### Stories
+- [ ] [User enters loan details](https://github.com/Khalon-Bridge/dees-repo-specs/issues/38)
+- [ ] [User submits loan details](https://github.com/Khalon-Bridge/dees-repo-specs/issues/39)
+- [ ] [Loan details validation](https://github.com/Khalon-Bridge/dees-repo-specs/issues/40)
+- [ ] [Calculate annual repayment amount](https://github.com/Khalon-Bridge/dees-repo-specs/issues/41)
