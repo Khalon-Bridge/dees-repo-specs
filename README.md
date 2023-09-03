@@ -55,3 +55,14 @@ A web application that transforms regular pictures to cartoon-style images.
 - [ ] [Adjust Cartoonization Parameters](https://github.com/Khalon-Bridge/dees-repo-specs/issues/28)
 - [ ] [Download Cartoonized Image](https://github.com/Khalon-Bridge/dees-repo-specs/issues/29)
 - [ ] [Apply Multiple Filters](https://github.com/Khalon-Bridge/dees-repo-specs/issues/30)
+
+## Feature: UI for Collecting Tax Info from Users
+A detailed spec for a user interface to collect tax information from users.
+### Stories
+- [ ] [User Registration](https://github.com/Khalon-Bridge/dees-repo-specs/issues/31)
+- [ ] [Login](https://github.com/Khalon-Bridge/dees-repo-specs/issues/32)
+- [ ] [Dashboard](https://github.com/Khalon-Bridge/dees-repo-specs/issues/33)
+- [ ] [Personal Information](https://github.com/Khalon-Bridge/dees-repo-specs/issues/34)
+- [ ] [Income Details](https://github.com/Khalon-Bridge/dees-repo-specs/issues/35)
+- [ ] [Deductions](https://github.com/Khalon-Bridge/dees-repo-specs/issues/36)
+- [ ] [Review and Submit](https://github.com/Khalon-Bridge/dees-repo-specs/issues/37)
