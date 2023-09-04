@@ -92,3 +92,12 @@ A comprehensive application that enables users to easily find properties around 
 - [ ] [View Property Details](https://github.com/Khalon-Bridge/dees-repo-specs/issues/49)
 - [ ] [Save and Track Properties](https://github.com/Khalon-Bridge/dees-repo-specs/issues/50)
 - [ ] [Advanced Features](https://github.com/Khalon-Bridge/dees-repo-specs/issues/51)
+
+## Feature: Property Listing with Bounty
+This feature allows users to browse and search for properties that have a bounty associated with them.
+### Stories
+- [ ] [As a user, I want to view a list of properties with a bounty](https://github.com/Khalon-Bridge/dees-repo-specs/issues/52)
+- [ ] [As a user, I want to search for properties with a bounty](https://github.com/Khalon-Bridge/dees-repo-specs/issues/53)
+- [ ] [As a user, I want to sort the properties based on bounty amount](https://github.com/Khalon-Bridge/dees-repo-specs/issues/54)
+- [ ] [As a user, I want to see detailed information about a property](https://github.com/Khalon-Bridge/dees-repo-specs/issues/55)
+- [ ] [As a user, I want to claim a bounty for a property](https://github.com/Khalon-Bridge/dees-repo-specs/issues/56)
