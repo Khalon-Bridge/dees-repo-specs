@@ -83,3 +83,12 @@ A crypto native app that provides credit to developers on GitHub based on their 
 - [ ] [As a developer, I want to see my credit history and details](https://github.com/Khalon-Bridge/dees-repo-specs/issues/44)
 - [ ] [As a developer, I want to earn credits for my contributions](https://github.com/Khalon-Bridge/dees-repo-specs/issues/45)
 - [ ] [As a developer, I want to redeem earned credits](https://github.com/Khalon-Bridge/dees-repo-specs/issues/46)
+
+## Feature: Property Finder App
+A comprehensive application that enables users to easily find properties around their desired location.
+### Stories
+- [ ] [User Registration and Login](https://github.com/Khalon-Bridge/dees-repo-specs/issues/47)
+- [ ] [Search for Properties](https://github.com/Khalon-Bridge/dees-repo-specs/issues/48)
+- [ ] [View Property Details](https://github.com/Khalon-Bridge/dees-repo-specs/issues/49)
+- [ ] [Save and Track Properties](https://github.com/Khalon-Bridge/dees-repo-specs/issues/50)
+- [ ] [Advanced Features](https://github.com/Khalon-Bridge/dees-repo-specs/issues/51)
