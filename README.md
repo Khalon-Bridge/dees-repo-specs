@@ -130,3 +130,13 @@ This feature allows users to list properties for sale or rent on the platform.
 - [ ] [As a user, I want to be able to view detailed information about a property](https://github.com/Khalon-Bridge/dees-repo-specs/issues/76)
 - [ ] [As a user, I want to be able to edit or delete my property listing](https://github.com/Khalon-Bridge/dees-repo-specs/issues/77)
 - [ ] [As an admin, I want to be able to moderate property listings](https://github.com/Khalon-Bridge/dees-repo-specs/issues/78)
+
+## Feature: Property Listing Feature
+This feature allows users to list properties for sale or rent on the platform.
+### Stories
+- [ ] [User can enter property details](https://github.com/Khalon-Bridge/dees-repo-specs/issues/79)
+- [ ] [User can add property images](https://github.com/Khalon-Bridge/dees-repo-specs/issues/80)
+- [ ] [User can set property specifications](https://github.com/Khalon-Bridge/dees-repo-specs/issues/81)
+- [ ] [User can set property availability](https://github.com/Khalon-Bridge/dees-repo-specs/issues/82)
+- [ ] [User can preview property listing](https://github.com/Khalon-Bridge/dees-repo-specs/issues/83)
+- [ ] [User can publish property listing](https://github.com/Khalon-Bridge/dees-repo-specs/issues/84)
