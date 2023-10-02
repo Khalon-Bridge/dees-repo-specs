@@ -112,3 +112,12 @@ This is a detailed spec for a feature that allows users to list properties
 - [ ] [User can add properties to their favorites](https://github.com/Khalon-Bridge/dees-repo-specs/issues/66)
 - [ ] [User can save a search criteria for future use](https://github.com/Khalon-Bridge/dees-repo-specs/issues/67)
 - [ ] [User can sort the properties list](https://github.com/Khalon-Bridge/dees-repo-specs/issues/68)
+
+## Feature: Property Listing Feature
+This feature allows users to list their properties for sale or rent on the platform.
+### Stories
+- [ ] [As a user, I want to be able to create a property listing.](https://github.com/Khalon-Bridge/dees-repo-specs/issues/69)
+- [ ] [As a user, I want to be able to search for properties.](https://github.com/Khalon-Bridge/dees-repo-specs/issues/70)
+- [ ] [As a user, I want to be able to edit my property listing.](https://github.com/Khalon-Bridge/dees-repo-specs/issues/71)
+- [ ] [As a user, I want to be able to delete my property listing.](https://github.com/Khalon-Bridge/dees-repo-specs/issues/72)
+- [ ] [As a user, I want to be able to contact the property owner.](https://github.com/Khalon-Bridge/dees-repo-specs/issues/73)
