@@ -101,3 +101,14 @@ This feature allows users to browse and search for properties that have a bounty
 - [ ] [As a user, I want to sort the properties based on bounty amount](https://github.com/Khalon-Bridge/dees-repo-specs/issues/54)
 - [ ] [As a user, I want to see detailed information about a property](https://github.com/Khalon-Bridge/dees-repo-specs/issues/55)
 - [ ] [As a user, I want to claim a bounty for a property](https://github.com/Khalon-Bridge/dees-repo-specs/issues/56)
+
+## Feature: Listing Properties Feature
+This is a detailed spec for a feature that allows users to list properties
+### Stories
+- [ ] [User can view a list of all available properties](https://github.com/Khalon-Bridge/dees-repo-specs/issues/62)
+- [ ] [User can filter properties based on various criteria](https://github.com/Khalon-Bridge/dees-repo-specs/issues/63)
+- [ ] [User can search for properties by keywords](https://github.com/Khalon-Bridge/dees-repo-specs/issues/64)
+- [ ] [User can view the details of a specific property](https://github.com/Khalon-Bridge/dees-repo-specs/issues/65)
+- [ ] [User can add properties to their favorites](https://github.com/Khalon-Bridge/dees-repo-specs/issues/66)
+- [ ] [User can save a search criteria for future use](https://github.com/Khalon-Bridge/dees-repo-specs/issues/67)
+- [ ] [User can sort the properties list](https://github.com/Khalon-Bridge/dees-repo-specs/issues/68)
