@@ -149,3 +149,10 @@ As a super talented engineer, I want to implement a feature to list properties o
 - [ ] [Story: Sort properties by various criteria](https://github.com/Khalon-Bridge/dees-repo-specs/issues/87)
 - [ ] [Story: View property details](https://github.com/Khalon-Bridge/dees-repo-specs/issues/88)
 - [ ] [Story: Save favorite properties](https://github.com/Khalon-Bridge/dees-repo-specs/issues/89)
+
+## Feature: Listing Properties
+This feature allows users to list properties for sale or rent.
+### Stories
+- [ ] [As a user, I want to be able to create a property listing.](https://github.com/Khalon-Bridge/dees-repo-specs/issues/90)
+- [ ] [As a user, I want to be able to search and filter property listings.](https://github.com/Khalon-Bridge/dees-repo-specs/issues/91)
+- [ ] [As a user, I want to be able to view and manage my listed properties.](https://github.com/Khalon-Bridge/dees-repo-specs/issues/92)
