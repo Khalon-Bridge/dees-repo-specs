@@ -140,3 +140,12 @@ This feature allows users to list properties for sale or rent on the platform.
 - [ ] [User can set property availability](https://github.com/Khalon-Bridge/dees-repo-specs/issues/82)
 - [ ] [User can preview property listing](https://github.com/Khalon-Bridge/dees-repo-specs/issues/83)
 - [ ] [User can publish property listing](https://github.com/Khalon-Bridge/dees-repo-specs/issues/84)
+
+## Feature: Feature: Property Listing
+As a super talented engineer, I want to implement a feature to list properties on a platform, so that users can easily find and browse available properties.
+### Stories
+- [ ] [Story: Display a list of properties](https://github.com/Khalon-Bridge/dees-repo-specs/issues/85)
+- [ ] [Story: Filter properties by location and price range](https://github.com/Khalon-Bridge/dees-repo-specs/issues/86)
+- [ ] [Story: Sort properties by various criteria](https://github.com/Khalon-Bridge/dees-repo-specs/issues/87)
+- [ ] [Story: View property details](https://github.com/Khalon-Bridge/dees-repo-specs/issues/88)
+- [ ] [Story: Save favorite properties](https://github.com/Khalon-Bridge/dees-repo-specs/issues/89)
