@@ -174,3 +174,12 @@ This feature aims to build a fermi generator, which is a device that facilitates
 - [ ] [Safety mechanisms prevent unsafe operating conditions](https://github.com/Khalon-Bridge/dees-repo-specs/issues/102)
 - [ ] [Fermi generator can be shut down gracefully](https://github.com/Khalon-Bridge/dees-repo-specs/issues/103)
 - [ ] [Detailed logging of fermi generator operations](https://github.com/Khalon-Bridge/dees-repo-specs/issues/104)
+
+## Feature: Fermi Estimator Generator
+A feature to build a Fermi estimator generator for a web app.
+### Stories
+- [ ] [User can input a question](https://github.com/Khalon-Bridge/dees-repo-specs/issues/105)
+- [ ] [User can provide necessary information](https://github.com/Khalon-Bridge/dees-repo-specs/issues/106)
+- [ ] [User can generate an estimate](https://github.com/Khalon-Bridge/dees-repo-specs/issues/107)
+- [ ] [User can save and store estimates](https://github.com/Khalon-Bridge/dees-repo-specs/issues/108)
+- [ ] [User can view previous estimates](https://github.com/Khalon-Bridge/dees-repo-specs/issues/109)
