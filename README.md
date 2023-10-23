@@ -218,3 +218,12 @@ This feature aims to implement a Fermi Estimator Generator in a web application,
 - [ ] [User can view and save generated estimators](https://github.com/Khalon-Bridge/dees-repo-specs/issues/126)
 - [ ] [User can share estimators with others](https://github.com/Khalon-Bridge/dees-repo-specs/issues/127)
 - [ ] [User can export estimators](https://github.com/Khalon-Bridge/dees-repo-specs/issues/128)
+
+## Feature: Fermi Estimator Generator Feature
+This feature aims to build a Fermi Estimator Generator for a web app. A Fermi Estimator is a rough estimation technique used to make quick approximate calculations for difficult or complex problems.
+### Stories
+- [ ] [User Interface for Fermi Estimator Generator](https://github.com/Khalon-Bridge/dees-repo-specs/issues/129)
+- [ ] [Category Management](https://github.com/Khalon-Bridge/dees-repo-specs/issues/130)
+- [ ] [Estimation Calculation](https://github.com/Khalon-Bridge/dees-repo-specs/issues/131)
+- [ ] [Sharing and Saving Estimations](https://github.com/Khalon-Bridge/dees-repo-specs/issues/132)
+- [ ] [Validation and Error Handling](https://github.com/Khalon-Bridge/dees-repo-specs/issues/133)
