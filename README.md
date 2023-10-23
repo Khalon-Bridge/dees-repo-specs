@@ -165,3 +165,12 @@ This detailed spec outlines the requirements for a web app feature to display im
 - [ ] [User can search for specific art images](https://github.com/Khalon-Bridge/dees-repo-specs/issues/96)
 - [ ] [User can click on an image to view details](https://github.com/Khalon-Bridge/dees-repo-specs/issues/97)
 - [ ] [User can navigate between multiple pages of images](https://github.com/Khalon-Bridge/dees-repo-specs/issues/98)
+
+## Feature: Fermi Generator
+This feature aims to build a fermi generator, which is a device that facilitates the creation of a controlled nuclear fission chain reaction, producing a sustained release of energy.
+### Stories
+- [ ] [User can initialize the fermi generator](https://github.com/Khalon-Bridge/dees-repo-specs/issues/100)
+- [ ] [User can control the power output of the fermi generator](https://github.com/Khalon-Bridge/dees-repo-specs/issues/101)
+- [ ] [Safety mechanisms prevent unsafe operating conditions](https://github.com/Khalon-Bridge/dees-repo-specs/issues/102)
+- [ ] [Fermi generator can be shut down gracefully](https://github.com/Khalon-Bridge/dees-repo-specs/issues/103)
+- [ ] [Detailed logging of fermi generator operations](https://github.com/Khalon-Bridge/dees-repo-specs/issues/104)
