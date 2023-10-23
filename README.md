@@ -183,3 +183,12 @@ A feature to build a Fermi estimator generator for a web app.
 - [ ] [User can generate an estimate](https://github.com/Khalon-Bridge/dees-repo-specs/issues/107)
 - [ ] [User can save and store estimates](https://github.com/Khalon-Bridge/dees-repo-specs/issues/108)
 - [ ] [User can view previous estimates](https://github.com/Khalon-Bridge/dees-repo-specs/issues/109)
+
+## Feature: Fermi Estimator Generator
+The Fermi Estimator Generator is a feature that allows users to generate estimation problems based on the Fermi estimation technique for a web app.
+### Stories
+- [ ] [User can access the Fermi Estimator Generator](https://github.com/Khalon-Bridge/dees-repo-specs/issues/110)
+- [ ] [User can input estimation parameters](https://github.com/Khalon-Bridge/dees-repo-specs/issues/111)
+- [ ] [User can generate Fermi estimation problems](https://github.com/Khalon-Bridge/dees-repo-specs/issues/112)
+- [ ] [User can receive feedback on estimation accuracy](https://github.com/Khalon-Bridge/dees-repo-specs/issues/113)
+- [ ] [User can provide estimation and get scoring](https://github.com/Khalon-Bridge/dees-repo-specs/issues/114)
