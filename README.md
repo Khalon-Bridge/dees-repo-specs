@@ -243,3 +243,12 @@ This feature focuses on improving the user experience and accuracy in estimating
 - [ ] [Customizable Categories and Templates](https://github.com/Khalon-Bridge/dees-repo-specs/issues/140)
 - [ ] [Integration with External Data Sources](https://github.com/Khalon-Bridge/dees-repo-specs/issues/141)
 - [ ] [Multi-language Support](https://github.com/Khalon-Bridge/dees-repo-specs/issues/142)
+
+## Feature: Fermi Estimator App Feature
+This is a detailed specification for a new feature in the Fermi Estimator app.
+### Stories
+- [ ] [User authentication](https://github.com/Khalon-Bridge/dees-repo-specs/issues/143)
+- [ ] [Project creation](https://github.com/Khalon-Bridge/dees-repo-specs/issues/144)
+- [ ] [Item estimation](https://github.com/Khalon-Bridge/dees-repo-specs/issues/145)
+- [ ] [Project summary](https://github.com/Khalon-Bridge/dees-repo-specs/issues/146)
+- [ ] [Sharing and collaboration](https://github.com/Khalon-Bridge/dees-repo-specs/issues/147)
