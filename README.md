@@ -227,3 +227,10 @@ This feature aims to build a Fermi Estimator Generator for a web app. A Fermi Es
 - [ ] [Estimation Calculation](https://github.com/Khalon-Bridge/dees-repo-specs/issues/131)
 - [ ] [Sharing and Saving Estimations](https://github.com/Khalon-Bridge/dees-repo-specs/issues/132)
 - [ ] [Validation and Error Handling](https://github.com/Khalon-Bridge/dees-repo-specs/issues/133)
+
+## Feature: Fermi Estimator Feature
+Introducing a new feature to the Fermi Estimator app that allows users to collaborate on estimation tasks and provides enhanced estimation capabilities.
+### Stories
+- [ ] [Collaborative Estimation](https://github.com/Khalon-Bridge/dees-repo-specs/issues/135)
+- [ ] [Advanced Estimation Options](https://github.com/Khalon-Bridge/dees-repo-specs/issues/136)
+- [ ] [Estimation Analytics](https://github.com/Khalon-Bridge/dees-repo-specs/issues/137)
